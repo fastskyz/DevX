@@ -1,5 +1,5 @@
 # DevX
-__DevX is a MacOS menu bar app for shortcuting commands__
+__DevX is a MacOS menu bar app for shortcutting commands__
 
 ### About
 
